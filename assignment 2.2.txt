@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    char Name[] = "Kitty";
+    int Age = 1;
+    printf("I have a pet cat named %s \n", Name);
+    printf("She is %d year old \n", Age );
+    printf("Her favorite food is milk. She also loves eating rice along with curries \n");
+    printf("%s is very cute and adorable ", Name);
+    
+        return 0;
+}

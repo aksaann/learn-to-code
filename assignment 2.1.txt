@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main()
+{
+    char Name[] = "Agnus Anna Varghese";
+    int Age = 14;
+    char SchoolName[] = "Gurukul Mount Public School";
+    double Marks = 9.8;
+    printf("Student Name %s \n", Name);
+    printf("Age %d \n", Age);
+    printf("School Name %s \n", SchoolName);
+    printf("CGPA %f", Marks);
+        return 0;
+}
